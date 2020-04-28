@@ -10,6 +10,7 @@ public class SpringCloudLesson3ConfigServerApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringCloudLesson3ConfigServerApplication.class, args);
+//		syso
 	}
 
 }
